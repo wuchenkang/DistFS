@@ -1,2 +1,2 @@
 # DistFS
-A simple distributed file system written by go.
+A simple distributed file system.
